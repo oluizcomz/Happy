@@ -1,8 +1,8 @@
-const Database = require('./database/db');
-const saveOrphanage = require('./database/saveOrphanage');
+import Database from './database/db.js'
+import saveOrphanage from  './database/saveOrphanage.js'
 
 
-module.exports = {
+const pagesController = {
 
     index(req, res) {
         return res.render('index')//entra  index
@@ -84,4 +84,5 @@ module.exports = {
         }
 
     }
-}
+};
+export default pagesController;

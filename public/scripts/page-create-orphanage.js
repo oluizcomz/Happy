@@ -1,4 +1,5 @@
 // criate map
+import L from "leaflet";
 const map = L.map('mapid').setView([-18.9184679,-48.260365], 16);
 // criando title layes
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);

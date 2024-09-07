@@ -1,4 +1,5 @@
-const Database = require('sqlite-async');//inporta banco de dados
+import { Database } from 'sqlite-async';
+import { join } from 'path'; // Para manipular caminhos
 
 function execute(db){
     return db.exec(`
@@ -19,5 +20,5 @@ function execute(db){
 }//criar tabela 
 
 
-module.exports = Database.open(__dirname + '/database.sqlite').then(execute)//cria banco de dados se ja existir abre
+export default Database.open(join(process.cwd(), 'src', 'database', 'database.sqlite')).then(execute)//cria banco de dados se ja existir abre
 //depois ecevute a funçao
