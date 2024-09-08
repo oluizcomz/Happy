@@ -8,7 +8,7 @@ module.exports = [
         name: "lar das meninas",
         description:  "Presta assistência a crianças de 06 a 15 anos que se encontre em situação de risco e/ou vulnerabilidade social.",
         images:[
-            "https://static.portaldacidade.com/unsafe/560x374/https://s3.amazonaws.com/mariana2.portaldacidade.com/img/news/2019-10/dia-das-criancas-5d9f56926f6a0.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Xs7HJpTldSQEJETZGd38OQK6fvla1zZr9Q&s",
             
             "https://exame.com/wp-content/uploads/2017/09/thinkstockphotos-944585218.jpg?quality=70&strip=info&resize=680,453"
         ],
@@ -28,7 +28,7 @@ module.exports = [
         name: "lar dos meninos",
         description:  "Presta assistência a crianças de 06 a 15 anos que se encontre em situação de risco e/ou vulnerabilidade social.",
         images:[
-            "https://static.portaldacidade.com/unsafe/560x374/https://s3.amazonaws.com/mariana2.portaldacidade.com/img/news/2019-10/dia-das-criancas-5d9f56926f6a0.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Xs7HJpTldSQEJETZGd38OQK6fvla1zZr9Q&s",
             
             "https://exame.com/wp-content/uploads/2017/09/thinkstockphotos-944585218.jpg?quality=70&strip=info&resize=680,453"
         ],

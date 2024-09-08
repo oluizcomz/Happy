@@ -21,6 +21,5 @@ server
 .get('/orphanages', pages.orphanages)
 .get('/create-orphanage', pages.createOrphanage)
 .post('/save-orphanage',pages.saveOrphanage)
-console.log('teste')
 //ligar servidor
 server.listen(5502)
