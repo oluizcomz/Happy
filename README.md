@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src=".github/logo.svg" />
+    <img alt="Happy" title="Happy" src="./public/images/logo.svg" />
 </h1>
 
 <p align="center">
@@ -7,6 +7,8 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
+  <a href="#-clonando-o-projeto">Clonando o projeto</a>
+  <a href="#-Iniciando-a-aplicação">Iniciando a aplicação</a>
 </p>
 
 <br>
@@ -44,7 +46,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 <br />
 <br />
 
-# Clonando o projeto
+## Clonando o projeto
 
 Baixe o projeto diretamente do GitHub ou use o terminal:
 
@@ -64,7 +66,7 @@ $ yarn install
 $ npm install
 ```
 
-# Iniciando a aplicação
+## Iniciando a aplicação
 
 Para começar use o comando:
 
